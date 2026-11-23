@@ -14,4 +14,14 @@ public class Player : Character
         Experince = 0;
     }
 
+    public void GainExperience()
+    {
+        
+    }
+
+    public void LevelUp()
+    {
+        
+    }
+
 }
